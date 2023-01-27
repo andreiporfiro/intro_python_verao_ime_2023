@@ -1,4 +1,5 @@
 """
+Importante: inserir docstring para o módulo
 Este módulo contém as funcões necessárias para fazermos uma pizza
 """
 
